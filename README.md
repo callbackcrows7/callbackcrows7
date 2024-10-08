@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 <p align="center" ><img  src = "./src/logo.gif" width = 200px></p>
 <h1 align="center">Hi 👋, I'm Md Shahriar Ahammad</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=D1D7E0&width=435&lines=I'm+a+Professional+Full-Stack+Web+Developer+!!!" alt="Typing SVG" /></a></h3>
-=======
+
 <p align="center">
     <img width="150" src="./src/logo.gif">
 </p>
@@ -10,7 +9,7 @@
 
 <h1 align="center">Hi, I'm MD. SHAHRIAR AHAMMAD</h1>
 <h3 align="center">A passionate Full-Stack web developer from Bangladesh</h3>
->>>>>>> a101767809bb255a6f8d339e68ecf4b4cda92494
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=callbackcrows7&label=Profile%20views&color=0e75b6&style=flat" alt="callbackcrows7" /> </p>
 
