@@ -1,7 +1,12 @@
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
+
 <h1 align="center">Hi, I'm MD. SHAHRIAR AHAMMAD</h1>
 <h3 align="center">A passionate Full-Stack web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=callbackcrows7&label=Profile%20views&color=0e75b6&style=flat" alt="callbackcrows7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=callbackcrows7&label=Profile%20views&color=0e75b6&style=flat" alt="callbackcrows7" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
