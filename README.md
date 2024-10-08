@@ -1,5 +1,13 @@
 <p align="center" ><img  src = "./src/logo.gif" width = 200px></p>
-<h1 align="center">Hi 👋, I'm Md Shahriar Ahammad</h1>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Md Shahriar Ahammad</h1></summary>
+  </ul>
+</div>
+
+
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=D1D7E0&width=435&lines=I'm+a+Professional+Full-Stack+Web+Developer+!!!" alt="Typing SVG" /></a></h3>
 
 ---
