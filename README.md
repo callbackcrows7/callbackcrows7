@@ -10,7 +10,7 @@
 <!--h3 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D1D7E0&width=435&lines=I+am+a+full-stack+developer" alt="Typing SVG" /></a></h3></summary>
+    <summary><h3 style="display: inline-block">I am a full-stack developer</h3></summary>
   </ul>
 </div>
 
