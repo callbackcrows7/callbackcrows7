@@ -90,7 +90,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,react,bootstrap,sass,webpack,bable,tailwind,nodejs,express,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,react,bootstrap,sass,webpack,babel,tailwind,nodejs,express,mongodb,aws,docker,bash,heroku,linux,git" />
   </a>
 </p>
 
