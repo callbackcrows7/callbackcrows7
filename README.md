@@ -1,20 +1,30 @@
-<p align="center">
-    <img width="200" src="./src/logo.gif">
-</p>
-
-
-<h1 align="center">Hi, I'm MD. SHAHRIAR AHAMMAD</h1>
-<h3 align="center">A passionate Full-Stack web developer from Bangladesh</h3>
+<p align="center" ><img  src = "./src/logo.gif" width = 200px></p>
+<h1 align="center">Hi 👋, I'm Md Shahriar Ahammad</h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=D1D7E0&width=435&lines=I'm+a+Professional+Full-Stack+Web+Developer+!!!" alt="Typing SVG" /></a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=callbackcrows7&label=Profile%20views&color=0e75b6&style=flat" alt="callbackcrows7" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **C, Java**
+- 🧑‍🎓 I’m an Undergraduate at **KPI**
+
+- 💬 Ask me about **C, Java, Js**
 
 - 📫 How to reach me **callbackcrows7@gmail.com**
-
 - ⚡ Fun fact **Call me as CBC7**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="./src/banner.gif">
+
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
