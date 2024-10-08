@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center"><picture><img src = "./src/icon/animation_dribbble.gif" width = 50px></picture>My Statistics</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
