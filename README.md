@@ -106,12 +106,15 @@
 
 <!--icons and links-->
 <p align="left">
-<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/md-shahriar-ahammad-535574300/" target="blank"><img align="center" src="./src/Social media icons/Linkdin.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://x.com/callbackcrows7" target="blank"><img align="center" src="./src/Social media icons/twitter.png" alt="twitter" height="40" width="40" /></a> 
+<a href="https://www.facebook.com/deadlydevil.pro/" target="blank"><img align="center" src="./src/Social media icons/facebook.png" alt="facebook" height="40" width="40" /></a>
+<a href="https://t.me/deadlydevilpro" target="blank"><img align="center" src="./src/Social media icons/telegram.png" alt="telegram" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/" target="blank"><img align="center" src="./src/Social media icons/Discord.png" alt="discord" height="40" width="40" /></a>
+<a href=" " target="blank"><img align="center" src="./src/Social media icons/skype.png" alt="skype" height="40" width="40" /></a>
+<a href=" " target="blank"><img align="center" src="./src/Social media icons/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>
   
 </p>
-
 ---
 
 <!-- Support -->
