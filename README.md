@@ -1,4 +1,6 @@
-<p align="center" ><img  src = "./src/logo.gif" width = 200px></p>
+<div id="container" style="background-color:#212830;">
+
+  <p align="center" ><img  src = "./src/logo.gif" width = 200px></p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -118,6 +120,8 @@
     <summary><h3 style="display: inline-block">🫶Support🫶</h3></summary>
     <p align="center"><a href="https://www.buymeacoffee.com/callbackcrows7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
   </ul>
+</div>
+  
 </div>
 
 
