@@ -1,4 +1,4 @@
-<div id="container" style="background-color:#212830;">
+<div id="container" background-color="#212830">
 
   <p align="center" ><img  src = "./src/logo.gif" width = 200px></p>
 
