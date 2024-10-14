@@ -139,3 +139,6 @@
   </ul>
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20You&textBg=false&section=footer&reversal=true&fontSize=14&fontAlignY=85&fontColor=f7f1e3&fontAlign=50&animation=twinkling"/>
+</p>
