@@ -118,7 +118,7 @@
 
 <!--icons and links-->
 <p align="left">
-<a href="https://www.linkedin.com/in/md-shahriar-ahammad-535574300/" target="blank"><img align="center" src="./src/Social media icons/Linkdin.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-shahriar-ahammad/" target="blank"><img align="center" src="./src/Social media icons/Linkdin.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://x.com/callbackcrows7" target="blank"><img align="center" src="./src/Social media icons/twitter.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.facebook.com/deadlydevil.pro/" target="blank"><img align="center" src="./src/Social media icons/facebook.png" alt="facebook" height="40" width="40" /></a>
 <a href="https://t.me/deadlydevilpro" target="blank"><img align="center" src="./src/Social media icons/telegram.png" alt="telegram" height="40" width="40" /></a>
