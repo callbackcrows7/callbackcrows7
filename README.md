@@ -124,7 +124,7 @@
 <a href="https://t.me/deadlydevilpro" target="blank"><img align="center" src="./src/Social media icons/telegram.png" alt="telegram" height="40" width="40" /></a>
 <a href="https://discordapp.com/users/" target="blank"><img align="center" src="./src/Social media icons/Discord.png" alt="discord" height="40" width="40" /></a>
 <a href="https://join.skype.com/invite/u1PXh2YyRTM3" target="blank"><img align="center" src="./src/Social media icons/skype.png" alt="skype" height="40" width="40" /></a>
-<a href=" " target="blank"><img align="center" src="./src/Social media icons/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=8801793660707&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="./src/Social media icons/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>
   
 </p>
 
