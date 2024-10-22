@@ -123,7 +123,7 @@
 <a href="https://www.facebook.com/deadlydevil.pro/" target="blank"><img align="center" src="./src/Social media icons/facebook.png" alt="facebook" height="40" width="40" /></a>
 <a href="https://t.me/deadlydevilpro" target="blank"><img align="center" src="./src/Social media icons/telegram.png" alt="telegram" height="40" width="40" /></a>
 <a href="https://discordapp.com/users/" target="blank"><img align="center" src="./src/Social media icons/Discord.png" alt="discord" height="40" width="40" /></a>
-<a href=" " target="blank"><img align="center" src="./src/Social media icons/skype.png" alt="skype" height="40" width="40" /></a>
+<a href="https://join.skype.com/invite/u1PXh2YyRTM3" target="blank"><img align="center" src="./src/Social media icons/skype.png" alt="skype" height="40" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="./src/Social media icons/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>
   
 </p>
