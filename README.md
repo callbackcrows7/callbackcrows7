@@ -11,7 +11,7 @@
 <!--h3 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">I am a front-end web developer</h3></summary>
+    <summary><h3 style="display: inline-block">I am a front-end web application developer</h3></summary>
   </ul>
 </div>
 
