@@ -121,9 +121,6 @@
 <a href="https://www.linkedin.com/in/md-shahriar-ahammad/" target="blank"><img align="center" src="./src/Social media icons/Linkdin.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://x.com/callbackcrows7" target="blank"><img align="center" src="./src/Social media icons/twitter.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.facebook.com/deadlydevil.pro/" target="blank"><img align="center" src="./src/Social media icons/facebook.png" alt="facebook" height="40" width="40" /></a>
-<a href="https://t.me/deadlydevilpro" target="blank"><img align="center" src="./src/Social media icons/telegram.png" alt="telegram" height="40" width="40" /></a>
-<a href="https://discordapp.com/users/mdshahriarahammad_17988" target="blank"><img align="center" src="./src/Social media icons/Discord.png" alt="discord" height="40" width="40" /></a>
-<a href="https://join.skype.com/invite/u1PXh2YyRTM3" target="blank"><img align="center" src="./src/Social media icons/skype.png" alt="skype" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send/?phone=8801793660707&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="./src/Social media icons/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>
   
 </p>
